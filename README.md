@@ -1,6 +1,6 @@
 # Manifold Learning and Diffusion Maps
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## Repo Instructions
 Since 4 people will be adding code to the same files using the same datasets, follow these steps:
 1. Clone the repo (it will default to the main branch)
@@ -8,8 +8,23 @@ Since 4 people will be adding code to the same files using the same datasets, fo
 git clone <https link>
 ```
 
-2. Locally: create a new branch with the title of the issue
+2. Locally: create a new branch with the title of the issue (see issues tab)
+```
+git checkout -b issue_name_title
+```
 
+3. Locally add and commit changes
+
+4. Push the branch to the repo
+```
+git push -u origin name_of_branch
+```
+
+5. In your repo, make sure you are under the correct branch and then click "Open Pull Request"
+  --> Add the other 3 members to review the branch
+
+6. Merge!
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
