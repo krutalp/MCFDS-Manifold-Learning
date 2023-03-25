@@ -5,7 +5,7 @@
 Since 4 people will be adding code to the same files using the same datasets, follow these steps:
 1. Clone the repo (it will default to the main branch)
 ```
-git clone <https link>
+git clone https://github.com/krutalp/MCFDS-Manifold-Learning.git
 ```
 
 2. Locally: create a new branch with the title of the issue (see issues tab)
