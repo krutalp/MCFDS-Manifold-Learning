@@ -1,5 +1,18 @@
 # Manifold Learning and Diffusion Maps
 
+
+## Repo Instructions
+Since 4 people will be adding code to the same files using the same datasets, follow these steps:
+1. Clone the repo (it will default to the main branch)
+```
+git clone <https link>
+```
+
+2. Locally: create a new branch with the title of the issue
+
+
+
+
 ![alt text](https://d3i71xaburhd42.cloudfront.net/100dcf6aa83ac559c83518c8a41676b1a3a55fc0/3-Figure1-1.png)
 
 
