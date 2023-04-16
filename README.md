@@ -32,4 +32,4 @@ Preprocessing
 3. Random Sampling to extract training and testing sets
 
 Connections with the course. Multi-Dimensional Scaling; random projections; graphs and networks; Markov chains;
-spectral clustering.
+spectral clustering. 
