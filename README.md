@@ -1,12 +1,14 @@
+<p align="center">
 # Manifold Learning and Diffusion Maps
-
+</p>
 
 <p align="center">
 <img width="450" alt="Layer 1 Visualization" src="https://user-images.githubusercontent.com/16658498/55211718-3e737900-51bb-11e9-8a4a-37ecf83c9ab0.gif">
 </p>
 
+<p align="center">
 ## Anshika Agrawal, Bryan Munoz, Nubaira Milki, Krutal Patel 
-
+</p>
 
 In manifold learning one assumes that data given in high-dimensional spaces in fact is on (or concentrated around) a lowdimensional regular set, namely a manifold. 
 
