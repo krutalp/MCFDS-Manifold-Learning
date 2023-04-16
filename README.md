@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img width="650" alt="Layer 1 Visualization" src="https://i.ytimg.com/vi/Cv3Wz9Z71g0/maxresdefault.jpg">
+<img width="650" alt="Layer 1 Visualization" src="https://user-images.githubusercontent.com/16658498/55211718-3e737900-51bb-11e9-8a4a-37ecf83c9ab0.gif">
 </p>
 
 ## Anshika Agrawal, Bryan Munoz, Nubaira Milki, Krutal Patel 
