@@ -19,7 +19,7 @@ Diffusion Maps has been applied in a very large variety of settings beyond manif
 
 ### Algorithm
 1. Deployed several toolboxes for each algorithm on real world datasets including Vehicle Loan Default, Credit Card Dataset, Single Cell Trajectories, 
-2. Discussion on the computational complexity of the different algorithm
+2. Discussion on the computational complexity of the different algorithms
 
 ### Data Exploration
 Various Datasets were chosen and analyzed from a variety of different industries including biology, finance, and English Literature. Each of these datasets had to be preprocessed before the algorithm was deployed.
