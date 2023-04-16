@@ -1,8 +1,9 @@
 # Manifold Learning and Diffusion Maps
 
 
-![Alt text](image.png, "Optional title")
-
+<p align="center">
+<img width="650" alt="Layer 1 Visualization" src="https://user-images.githubusercontent.com/97049854/184223712-c68276b4-7a87-4bf8-bde0-4b216ccb4820.png">
+</p>
 
 ## Anshika Agrawal, Bryan Munoz, Nubaira Milki, Krutal Patel 
 
